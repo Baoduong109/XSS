@@ -16,3 +16,12 @@ XSS
 ![reflectxss2](https://github.com/user-attachments/assets/d1954303-aaba-4090-978a-6b41b16f14d3)
 
 ![reflectxss3](https://github.com/user-attachments/assets/12917bfa-1a0d-489d-b958-debb02f708ee)
+
+
+
+![image](https://github.com/user-attachments/assets/2db17621-c17d-476e-b174-236e9846137f)
+
+
+![Storedxss](https://github.com/user-attachments/assets/eb9dcfce-525e-40ce-bb42-6e925e4eb0fb)
+![Storedxss3](https://github.com/user-attachments/assets/19341a53-71a2-42c9-91b0-fbcb436264a3)
+![Storedxss2](https://github.com/user-attachments/assets/57a5c8ed-829d-4c6d-836d-f4a50d7ba29a)
