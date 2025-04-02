@@ -7,3 +7,6 @@ XSS
 
 
 ![image](https://github.com/user-attachments/assets/5a9c9ea4-3e40-46f1-a15f-901678faff56)
+
+
+![reflectxss](https://github.com/user-attachments/assets/9dc05ff3-9814-4433-91d8-4845de3330b6)
