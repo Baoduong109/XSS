@@ -10,3 +10,9 @@ XSS
 
 
 ![reflectxss](https://github.com/user-attachments/assets/9dc05ff3-9814-4433-91d8-4845de3330b6)
+
+
+
+![reflectxss2](https://github.com/user-attachments/assets/d1954303-aaba-4090-978a-6b41b16f14d3)
+
+![reflectxss3](https://github.com/user-attachments/assets/12917bfa-1a0d-489d-b958-debb02f708ee)
