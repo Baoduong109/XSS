@@ -10,6 +10,7 @@ Stored XSS là dạng tấn công mà hacker chèn trực tiếp các mã độc
 </p>
 
 **Bước 1:** Kẻ tấn công tìm kiếm các trường nhập liệu mà nội dung của chúng được lưu lại và hiển thị sau này. Các vị trí tìm năng như: Bình luận, bài đăng, hộp chat tin nhắn, trang quản trị hiển thị log truy cập... 
+
 **Bước 2:** Nếu hệ thống không được mã hóa dữ liệu đầu vào, kẻ tấn công có thể gửi 1 đoạn script độc hại để lưu trữ trong cơ sở dữ liệu.
 **Ví dụ:**
 ```
