@@ -9,8 +9,8 @@ XSS
 ![image](https://github.com/user-attachments/assets/5a9c9ea4-3e40-46f1-a15f-901678faff56)
 
 
-![reflectxss](https://github.com/user-attachments/assets/9dc05ff3-9814-4433-91d8-4845de3330b6)
 
+![reflectxss](https://github.com/user-attachments/assets/cbb8b168-69a3-400b-a87f-a9a7a6789c7e)
 
 
 ![reflectxss2](https://github.com/user-attachments/assets/d1954303-aaba-4090-978a-6b41b16f14d3)
